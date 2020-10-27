@@ -35,3 +35,35 @@
    - Para cada múltiplo de 5, imprima "Buzz" em vez do número.
    - Para números que são múltiplos de 3 e 5, imprima "FizzBuzz" em vez do número.
    - Para números **não** múltiplos de 3 e/ou de 5, imprima apenas o número.
+<br>
+
+5. Dado um array de objetos, remova os objetos com Nome duplicado:
+
+```js
+[
+   {
+      id: 1,
+      name: "João",
+   },
+   {
+      id: 2,
+      name: "Maria",
+   },
+   {
+      id: 3,
+      name: "Paulo",
+   },
+   {
+      id: 4,
+      name: "Fabio",
+   },
+   {
+      id: 5,
+      name: "João",
+   },
+   {
+      id: 6,
+      name: "Paulo",
+   },
+]
+```
