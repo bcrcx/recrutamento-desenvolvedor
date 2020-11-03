@@ -67,3 +67,5 @@
    },
 ]
 ```
+
+6. Faça um programa que imprima os primeiros 25 números da sequencia de fibonacci.
